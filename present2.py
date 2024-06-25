@@ -1,0 +1,1 @@
+git remote add origin git@github.com:kiri3914/Second2.git
